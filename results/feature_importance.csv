@@ -1,0 +1,13 @@
+feature,importance
+outbound_bytes,0.2733877423981505
+graph_density,0.1284325140283484
+encoded_command_count,0.11619041831809675
+suspicious_relationship_count,0.09338452871648727
+has_external_path,0.0893919295819259
+node_count,0.08084671009137795
+edge_count,0.07420948336306118
+suspicious_process_count,0.06816898697528269
+longest_path,0.06345671368487796
+external_edge_count,0.005709991993221157
+unique_event_types,0.005310567001769485
+max_out_degree,0.0015104138474008252
